@@ -1,5 +1,5 @@
 # weave-supervisord
-supervisord base docker image
+supervisord base docker image (based on weave-ubuntu for 14.04)
 
 Please refer to the Dockerfile for details.
 
